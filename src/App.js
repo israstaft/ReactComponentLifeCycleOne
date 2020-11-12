@@ -26,7 +26,7 @@ class App extends Component {
     <div className ="App">
       <h4>Demonstration of Component Life Cycle</h4>
       <div className="bold">
-      <button onClick={this.setNewValue}>MULTIPLY BY 7</button>
+      <button onClick={this.setNewValue}>MULTIPLY BY 8</button>
       <Home myValue={this.state.value}></Home>
       </div>
     </div>
